@@ -23,7 +23,11 @@
 
 ---
 
+## Мой стек
+HTML, CSS, JavaScript, React, Node.js, REST API, MongoDB, Mongoose, Python, Git, basic Machine Learning
 ## Навыки
+
+---
 
 ### Frontend
 Работаю с HTML, CSS, JavaScript и React (базовый уровень).  
