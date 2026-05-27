@@ -46,6 +46,15 @@ Git, GitHub, VS Code, GitHub Copilot, ChatGPT, Claude, Gemini, Codeium.
 
 ---
 
+## Сертификаты
+
+Веб-разработка - Sololearn
+JavaScript средний уровень - Sololearn 
+Введение в Python - Sololearn 
+Python средний уровень - Sololearn 
+
+---
+
 ## Проекты
 
 ### Frontend-проект
