@@ -48,10 +48,10 @@ Git, GitHub, VS Code, GitHub Copilot, ChatGPT, Claude, Gemini, Codeium.
 
 ## Сертификаты
 
-- Веб-разработка - Sololearn
-- JavaScript средний уровень - Sololearn 
-- Введение в Python - Sololearn 
-- Python средний уровень - Sololearn 
+- Web Development — Sololearn
+- JavaScript Intermediate — Sololearn
+- Introduction to Python — Sololearn
+- Python Intermediate — Sololearn
 
 ---
 
