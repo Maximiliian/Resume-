@@ -1,16 +1,15 @@
-# Кнышов Максим  
+# Кнышов Максим
+
 ## Intern Frontend / Backend / AI Developer
 
----
-
 ## Контактная информация
-- GitHub: https://github.com/Maximiliian  
-- Telegram: @IamMaximillllian  
-- E-mail: maxim.knyshov@gmail.com  
 
----
+- GitHub: https://github.com/Maximiliian
+- Telegram: @IamMaximillllian
+- E-mail: maxim.knyshov@gmail.com
 
 ## О себе
+
 Начинающий разработчик с практическим опытом в web-разработке, backend-разработке и базовых задачах машинного обучения.  
 Работаю с HTML, CSS, JavaScript, Node.js и Python.  
 Есть опыт в создании frontend- и backend-проектов, включая одностраничные сайты и серверные приложения.
@@ -25,26 +24,6 @@
 
 ## Мой стек
 HTML, CSS, JavaScript, React, Node.js, REST API, MongoDB, Mongoose, Python, Git, basic Machine Learning
-## Навыки
-
----
-
-### Frontend
-Работаю с HTML, CSS, JavaScript и React (базовый уровень).  
-Есть опыт адаптивной верстки, создания интерфейсов, одностраничных сайтов и клиентской логики.
-
-### Backend
-Писал проекты на Node.js и JavaScript.  
-Работал с REST API, Postman, MongoDB, Mongoose, файловой системой и обработкой данных.
-
-### AI / Machine Learning
-Использую Python, изучаю основы машинного обучения.  
-Разработал модель для предсказания цены на основе линейной регрессии.
-
-### Инструменты
-Git, GitHub, VS Code, GitHub Copilot, ChatGPT, Claude, Gemini, Codeium.
-
----
 
 ## Сертификаты
 
@@ -53,20 +32,37 @@ Git, GitHub, VS Code, GitHub Copilot, ChatGPT, Claude, Gemini, Codeium.
 - Introduction to Python — Sololearn
 - Python Intermediate — Sololearn
 
----
+## Проекты и навыки
 
-## Проекты
+### Frontend-проект — Pear Electronics
 
-### Frontend-проект
-Одностраничный сайт на HTML, CSS и JavaScript с использованием React для компонентов интерфейса и клиентской логики.  
-https://github.com/Maximiliian/pear-electronics  
+**Описание:**  
+Одностраничный сайт интернет-магазина электроники.
 
-### Backend-проекты
-Серверные приложения на Node.js с REST API, MongoDB, Mongoose и работой с файлами.  
-https://github.com/Maximiliian/backend-project  
+**Репозиторий:**  
+https://github.com/Maximiliian/pear-electronics
 
-### ML-проект
-Модель для предсказания цены с использованием линейной регрессии.  
-https://github.com/Maximiliian/first_ml  
+**Использовал:**  
+HTML, CSS, JavaScript, React, адаптивная верстка, компоненты интерфейса, клиентская логика.
 
----
+### Backend-проект
+
+**Описание:**  
+Серверное приложение с REST API и базой данных MongoDB.
+
+**Репозиторий:**  
+https://github.com/Maximiliian/backend-project
+
+**Использовал:**  
+Node.js, JavaScript, REST API, MongoDB, Mongoose, Postman, файловая система, обработка данных.
+
+### ML-проект — Price Prediction Model
+
+**Описание:**  
+Модель машинного обучения для предсказания цены на основе линейной регрессии.
+
+**Репозиторий:**  
+https://github.com/Maximiliian/first_ml
+
+**Использовал:**  
+Python, Linear Regression, основы Machine Learning, анализ данных, предсказательное моделирование.
